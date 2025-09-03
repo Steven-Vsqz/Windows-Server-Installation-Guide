@@ -56,6 +56,11 @@ This guide walks through installing **Windows Server** inside a Virtual Machine 
 
 ## 🖼 Screenshots
 
+<details closed>
+
+<summary>Click to view!</summary>
+  
+  <br><br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3fb4d9df-73b0-41fd-b8a3-bf85a421d41b" width="80%" alt="Wireshark Conversations" />  
   <br><br>
@@ -74,5 +79,7 @@ This guide walks through installing **Windows Server** inside a Virtual Machine 
   <img src="https://github.com/user-attachments/assets/2c62534f-a0f4-4b75-a2ca-9dbfea8a64e0" width="80%" alt="DNS Query Example" />  
   <br><br>
 </p>
+
+</details>
 
 ---
